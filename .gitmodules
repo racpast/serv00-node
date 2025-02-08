@@ -1,0 +1,9 @@
+[submodule "serv00-play"]
+	path = serv00-play
+	url = https://github.com/frankiejun/serv00-play.git
+[submodule "v2rayN"]
+	path = v2rayN
+	url = https://github.com/2dust/v2rayN
+[submodule "v2rayNG"]
+	path = v2rayNG
+	url = https://github.com/2dust/v2rayNG
