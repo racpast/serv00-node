@@ -1,22 +1,4 @@
-# 注意，本教程现在已经过时！等待 US.KG 完成系统升级后才会再次更新本教程！
-# US.KG 官方通知
-## 原文
-**System Upgrade Notice**
-
-We are currently upgrading our KYC system.
-
-The free domain US.KG has been widely misused by criminals. As a result, we have temporarily suspended new account registrations until our new KYC system is fully implemented.
-
-Thank you for your understanding and support.
-## 译文
-**系统升级通知**
-
-我们目前正在升级我们的 KYC（实名认证）系统。
-
-免费域名 US.KG 已被不法分子广泛滥用。
-
-因此，在新的 KYC 系统全面实施之前，我们已暂时暂停新账户注册。
-
+# 注意，本教程现在已经过时！2025年4月，Serv00官方更新了服务条款并进行了大清扫，明确禁止了代理的搭建，导致了大规模的封号，此教程将不再可用。
 ![image](https://github.com/user-attachments/assets/0aaae6ec-add9-451f-a8a1-ef025a28d904)
 ![image](https://github.com/user-attachments/assets/ba10dd69-c6b3-493c-b909-70cdee0cf018)
 ![image](https://github.com/user-attachments/assets/fd896371-c5ce-47b2-9e0c-fec25c8e057d)
